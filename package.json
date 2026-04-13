@@ -1,0 +1,21 @@
+{
+  "name": "personal-ops-tracker",
+  "version": "1.0.0",
+  "description": "**Production-grade task/project management API** built over 16 weeks. From CLI prototype to AWS-deployed backend.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neomoon007/personal-ops-tracker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/neomoon007/personal-ops-tracker/issues"
+  },
+  "homepage": "https://github.com/neomoon007/personal-ops-tracker#readme"
+}
